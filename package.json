@@ -1,5 +1,5 @@
 {
-  "name": "webplatform-automation",
+  "name": "mobileplatform-automation",
   "type": "module",
   "version": "1.0.0",
   "main": "index.js",
@@ -8,7 +8,7 @@
     "start": "node index.js",
     "migrate": "node src/migration.js"
   },
-  "repository": "git@github.com:vladanpaunovic/webplatform-automation.git",
+  "repository": "git@github.com:bruno-garcia/mobileplatform-automation.git",
   "author": "Vladan Paunovic <vladan.paunovic.bg@gmail.com>",
   "license": "MIT",
   "dependencies": {

@@ -1,5 +1,5 @@
-# webplatform-automation
-Automation for Sentry Web Platform Team
+# Mobile Platform GitHub Automation
+GitHub Automation for Sentry Mobile Platform Team
 
 ## Configuration
 

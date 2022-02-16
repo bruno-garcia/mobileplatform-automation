@@ -30,7 +30,7 @@ const querySentryRepositories = () => {
     .map((repo) => ` -repo:${repo.owner}/${repo.repo}`)
     .join("");
 
-  const labelString = ["Team: Web Frontend", "Team: Web Backend"]
+  const labelString = ["Team: Mobile"]
     .map((label) => `"${label}"`)
     .join(",");
 
