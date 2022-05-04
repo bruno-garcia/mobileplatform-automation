@@ -20,6 +20,7 @@ const CONFIG = {
     { owner: "getsentry", repo: "symbol-collector" },
     { owner: "getsentry", repo: "sentry-xamarin" },
     { owner: "getsentry", repo: "sentry-unity-lite" },
+    { owner: "getsentry", repo: "mobile-team-meta" },
   ],
   githubProject: {
     githubUser: "getsentry",
